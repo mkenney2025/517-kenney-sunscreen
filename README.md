@@ -14,7 +14,7 @@ Mineral sunscreens typically leave a white cast, or a dried-down layer of white 
 
 Below is an example of a mineral sunscreen. As discussed above, this product by CeraVe uses pigment powders to mask the white cast that comes with using mineral sunscreens. However, there are only 3 shades in the tints, so the shade range is still not considered accessible for all people. 
 
-![CeraVe Hydrating Mineral Sunscreen](https://file%2B.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/517-repos/517-kenney-sunscreen/Images/Screenshot%202025-09-01%20at%204.33.36%E2%80%AFPM.png?version%3D1756758939266)
+![CeraVe Mineral Sunscreen](https://file%2B.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/517-repos/517-kenney-sunscreen/Images/Mineral.png?version%3D1756760216212)
 
 ### What to look for on the label:
 * titaniam dioxide
@@ -24,9 +24,9 @@ Chemical sunscreens do not reflect UV rays off the sunscreen, but instead absorb
 
 Below is an example of a chemical sunscreen primer designed for skin protection under makeup. The products formulation allows for SPF 30 sun protection while blurring the skin under foundation. 
 
-![Elf Whoa Glow Broad Spectrum SPF 30 Sunscreen](https://file%2B.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/517-repos/517-kenney-sunscreen/Images/Screenshot%202025-09-01%20at%204.30.36%E2%80%AFPM.png?version%3D1756758672860)
+![Elf Whoa Glow Broad Spectrum SPF 30 Sunscreen](https://file%2B.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/517-repos/517-kenney-sunscreen/Images/Chemical.png?version%3D1756760273314)
 
-Most chemical sunscreens do not leave a white cast, and are most commonly found in the form of spray bottles, skint tints and makeup primers, and stick formulas. As a result, they are more accessible for use under makeup and on wider skin tone ranges
+Most chemical sunscreens do not leave a white cast, and are most commonly found in the form of spray bottles, skint tints and makeup primers, and stick formulas. As a result, they are more accessible for use under makeup and on wider skin tone ranges.
 
 ### What to look for on the label:
 * oxybenzone
